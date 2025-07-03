@@ -1,4 +1,4 @@
-var cacheName = 'ren-py-tutorial-game';
+var cacheName = 'affiliate-marketing-the-beginning-of-the-journey';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
